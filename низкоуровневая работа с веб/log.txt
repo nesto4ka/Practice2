@@ -1,0 +1,96 @@
+Date: Fri, 17 Dec 2021 15:13:18 GTM
+Addr: ('127.0.0.1', 58184)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\index.html
+Date: Fri, 17 Dec 2021 15:13:18 GTM
+Addr: ('127.0.0.1', 58185)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:13:58 GTM
+Addr: ('127.0.0.1', 58190)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\image.jpg
+Date: Fri, 17 Dec 2021 15:13:58 GTM
+Addr: ('127.0.0.1', 58250)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:14:37 GTM
+Addr: ('127.0.0.1', 61786)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\image.png
+Date: Fri, 17 Dec 2021 15:14:37 GTM
+Addr: ('127.0.0.1', 61787)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:14:52 GTM
+Addr: ('127.0.0.1', 61876)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\image.gif
+Date: Fri, 17 Dec 2021 15:14:53 GTM
+Addr: ('127.0.0.1', 61877)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:15:26 GTM
+Addr: ('127.0.0.1', 61882)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:15:26 GTM
+Addr: ('127.0.0.1', 61950)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:16:26 GTM
+Addr: ('127.0.0.1', 62148)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:16:26 GTM
+Addr: ('127.0.0.1', 62149)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:17:08 GTM
+Addr: ('127.0.0.1', 62154)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\403.html
+Date: Fri, 17 Dec 2021 15:17:09 GTM
+Addr: ('127.0.0.1', 62158)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:20:03 GTM
+Addr: ('127.0.0.1', 49974)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:20:03 GTM
+Addr: ('127.0.0.1', 49975)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:20:06 GTM
+Addr: ('127.0.0.1', 49980)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\403.html
+Date: Fri, 17 Dec 2021 15:20:06 GTM
+Addr: ('127.0.0.1', 49984)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:22:53 GTM
+Addr: ('127.0.0.1', 50490)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:22:53 GTM
+Addr: ('127.0.0.1', 50491)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:22:54 GTM
+Addr: ('127.0.0.1', 50497)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:22:55 GTM
+Addr: ('127.0.0.1', 50501)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:24:27 GTM
+Addr: ('127.0.0.1', 59207)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\403.html
+Date: Fri, 17 Dec 2021 15:24:27 GTM
+Addr: ('127.0.0.1', 59208)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:24:38 GTM
+Addr: ('127.0.0.1', 59209)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\index.html
+Date: Fri, 17 Dec 2021 15:24:38 GTM
+Addr: ('127.0.0.1', 59223)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:24:55 GTM
+Addr: ('127.0.0.1', 55770)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\image.jpg
+Date: Fri, 17 Dec 2021 15:24:55 GTM
+Addr: ('127.0.0.1', 55771)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:25:10 GTM
+Addr: ('127.0.0.1', 55772)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:25:11 GTM
+Addr: ('127.0.0.1', 55792)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
+Date: Fri, 17 Dec 2021 15:28:44 GTM
+Addr: ('127.0.0.1', 51932)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\403.html
+Date: Fri, 17 Dec 2021 15:28:44 GTM
+Addr: ('127.0.0.1', 51933)
+File: C:\Users\miana\Desktop\уник\практикум\низкоуровневая работа с веб\404.html
